@@ -1,2 +1,2 @@
 # ackermann_function
-Ackermann–Péter function for testing computer performance
+Ackermann–Péter function, computer performance benchmark
